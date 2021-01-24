@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "engines": {
-    "node": "12.18.2"
+    "node": "8.1.2"
   },
   "author": "Siddharth Rajakumar",
   "license": "MIT",
